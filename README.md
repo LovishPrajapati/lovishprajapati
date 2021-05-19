@@ -5,10 +5,10 @@
 </h1>
 <h4 align = 'center'>Get in touch 🌐</h4>
 <p align='center'>  
-  <a href="https://www.linkedin.com/in/saransurya/">
+  <a href="https://www.linkedin.com/in/lovish-kumar-prajapati-b89643193/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;  
-   <a href="https://www.instagram.com/saran_surya_photography/">
+   <a href="#">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
